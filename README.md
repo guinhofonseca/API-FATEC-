@@ -11,47 +11,49 @@ No próprio site da HGBrasil, você também encontrará toda a documentação.
 No caso do trabalho apresentado, ele resulta a Cidade pesquisada, junto com a data, hora, temperatura, como está o tempo, pôr e nascer do sol,
 mas é possível fazer com que ele traga mais informações, de acordo com sua necessidade.
 
-temp - temperatura atual em ºC
+Exemplos:
 
-date - data da consulta
+- temp - temperatura atual em ºC
 
-time - hora da consulta
+- date - data da consulta
 
-condition_code - código da condição de tempo atual veja a lista
+-  time - hora da consulta
 
-description - descrição da condição de tempo atual no idioma escolhido
+-  condition_code - código da condição de tempo atual veja a lista
 
-currently - retorna se está de dia ou de noite no idioma escolhido
+-  description - descrição da condição de tempo atual no idioma escolhido
 
-cid - antigo identificador da cidade, pode não estar presente em alguns casos
+-  currently - retorna se está de dia ou de noite no idioma escolhido
 
-city - nome da cidade seguido por uma vírgula (mantido para as libs antigas)
+-  cid - antigo identificador da cidade, pode não estar presente em alguns casos
 
-humidity - umidade atual em percentual
+-  city - nome da cidade seguido por uma vírgula (mantido para as libs antigas)
 
-wind_speedy - velocidade do vento em km/h
+-  humidity - umidade atual em percentual
 
-sunrise - nascer do sol em horário local da cidade
+-  wind_speedy - velocidade do vento em km/h
 
-sunset - pôr do sol em horário local da cidade
+-  sunrise - nascer do sol em horário local da cidade
 
-condition_slug - slug da condição de tempo atual veja a lista
+-  sunset - pôr do sol em horário local da cidade
 
-city_name - nome da cidade
+-  condition_slug - slug da condição de tempo atual veja a lista
 
-forecast - array com a previsão do tempo para outros dias
+-  city_name - nome da cidade
 
-date - data da previsão dd/mm
+-  forecast - array com a previsão do tempo para outros dias
 
-weekday - dia da semana abreviado
+-  date - data da previsão dd/mm
 
-max - temperatura máxima em ºC
+-  weekday - dia da semana abreviado
 
-min - temperatura mínima em ºC
+-  max - temperatura máxima em ºC
 
-description - descrição da previsão
+-  min - temperatura mínima em ºC
 
-condition - slug da condição veja a lista
+-  description - descrição da previsão
+
+-  condition - slug da condição veja a lista
 
 Crei uma array solicitando esses dados e em seguida, um foreach, transformando os parâmetros em URL, que resultam nos dados da API.
 
