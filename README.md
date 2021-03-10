@@ -8,4 +8,7 @@ Então no código, na váriavel $chave colocar a chave gerada no site
 
 No próprio site da HGBrasil, você também encontrará toda a documentação.
 
-No caso do trabalho apresentado, ele resulta 
+No caso do trabalho apresentado, ele resulta a Cidade pesquisada, junto com a data, hora, temperatura, como está o tempo, pôr e nascer do sol,
+mas é possível fazer com que ele traga mais informações, de acordo com sua necessidade.
+
+
