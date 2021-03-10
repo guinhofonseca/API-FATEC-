@@ -1,4 +1,4 @@
-Trabalho de Condumo de PAi com interação do usuário.
+Trabalho de Consumo de API com interação do usuário.
 
 Api utilizada: hgbrasil.com/weather
 
