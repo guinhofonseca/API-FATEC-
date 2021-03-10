@@ -1,16 +1,11 @@
-AQUI VOCÊ VAI COLOCAR O QUE O SEU CÓDIGO FAZ, OBJETIVO DELE, ETC
+Trabalho de Condumo de PAi com interação do usuário.
 
+Api utilizada: hgbrasil.com/weather
 
-Na hora que você escrever aqui, meio que por cima, fala assim 
+Antes de mais nada, é intersante criar uma chave gratuita no próprio site da HgBrasil, para que possa realizar consultas
 
-API consumida: LINK dela 
+Então no código, na váriavel $chave colocar a chave gerada no site 
 
-COMO USAR: 
-Neste caso, entrei no site X e fiz uma chave blá blá blá 
+No próprio site da HGBrasil, você também encontrará toda a documentação.
 
-DAÍ TU COMEÇAR A FALAR MAIS OU MENOS COMO FUNCIONA O CÓDIGO, BEM POR CIMA 
-Ou ao menos diz assim 
-
-Na váriavel $chave colocar a chave gerada no site 
-
-Mas é isto, seu arquivo já está aqui, só editar esse readme 
+No caso do trabalho apresentado, ele resulta 
