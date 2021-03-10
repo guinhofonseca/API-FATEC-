@@ -11,4 +11,6 @@ No próprio site da HGBrasil, você também encontrará toda a documentação.
 No caso do trabalho apresentado, ele resulta a Cidade pesquisada, junto com a data, hora, temperatura, como está o tempo, pôr e nascer do sol,
 mas é possível fazer com que ele traga mais informações, de acordo com sua necessidade.
 
+Crei uma array solicitando esses dados e em seguida, um foreach, transformando os parâmetros em URL, que resultam nos dados da API.
+
 
